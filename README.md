@@ -4,4 +4,4 @@ English learning topics
 
 ## Rare Words.JSON
 
-It contains words & expressions I've learnt trough years. 
+It contains words and expressions that I have learned over the years, arranged in chronological order.
